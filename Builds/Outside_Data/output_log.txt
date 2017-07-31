@@ -1,0 +1,51 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     6103 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\LUDUM DARE\ld39\Builds\Outside_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.017 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.822915 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5e70 -> priority: 1 
+  Thread -> id: 7244 -> priority: 1 
+  Thread -> id: be4 -> priority: 1 
+  Thread -> id: b44 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.833326 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 2882.
+Total: 0.538180 ms (FindLiveObjects: 0.125158 ms CreateObjectMapping: 0.025031 ms MarkObjects: 0.351865 ms  DeleteObjects: 0.035556 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.909772 ms
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 2882.
+Total: 0.517415 ms (FindLiveObjects: 0.109797 ms CreateObjectMapping: 0.024178 ms MarkObjects: 0.342193 ms  DeleteObjects: 0.040960 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.657877 ms
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.622377 ms (FindLiveObjects: 0.035840 ms CreateObjectMapping: 0.016498 ms MarkObjects: 0.232964 ms  DeleteObjects: 0.335936 ms)
+
